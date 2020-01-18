@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "437914738639",
+    "firebase_url": "https://athena-droid.firebaseio.com",
+    "project_id": "athena-droid",
+    "storage_bucket": "athena-droid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437914738639:android:3fd185231f87047b183cba",
+        "android_client_info": {
+          "package_name": "com.example.athena_droid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437914738639-6nrk3i9q0rodii8i55ongt38mns1abpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.athena_droid",
+            "certificate_hash": "59933ec8e44b6fbb49b42275edb1e62d3a6f8295"
+          }
+        },
+        {
+          "client_id": "437914738639-slb7utdrumfude186edb5bkbmvsmjsir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLyHV6iD-iEPeR-2KPextJqC5q9hojNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437914738639-slb7utdrumfude186edb5bkbmvsmjsir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
